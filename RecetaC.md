@@ -15,7 +15,7 @@
 <br><br><br>
 ## Instrucciones
 <br>
-5. BIERTA pequeñas porciones de masa.
+5. vierta pequeñas porciones de masa.
 <br>
 2. Agregue los huevos y la leche.
 <br>
