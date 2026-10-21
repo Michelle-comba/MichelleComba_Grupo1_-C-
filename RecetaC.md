@@ -1,9 +1,9 @@
-Panqueques de banano
+# Panqueques de banano
 <br>
 <!-- Link: https://images.unsplash.com/photo-1528207776546-365bb710ee93 -->
 <img src="https://images.unsplash.com/photo-1528207776546-365bb710ee93" alt="Panqueques de banano" width="600">
 <br><br>
-Ingredientes
+## Ingredientes
 <br>
 - Un banano maduro.
 - Dos huevos.
@@ -13,7 +13,7 @@ Ingredientes
 - Una pizca de canela.
 - Un poco de aceite para la sartén.
 <br><br><br>
-Instrucciones
+## Instrucciones
 <br>
 5. BIERTA pequeñas porciones de masa.
 <br>
