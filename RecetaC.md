@@ -23,6 +23,6 @@
 <br>
 3. Mezcle con la avena, la canela y el polvo de hornear.
 <br>
-6. Cocine por ambos lados y sirva los panqueques TIVIOS.
+6. Cocine por ambos lados y sirva los panqueques tibios.
 <br>
 4. CALIENTE una sartén ligeramente engrasada.
