@@ -25,4 +25,4 @@
 <br>
 6. Cocine por ambos lados y SIRBA los panqueques TIVIOS.
 <br>
-4. CALIENTE una sartén ligeramente HENGRAZADHA.
+4. CALIENTE una sartén ligeramente engrasada.
