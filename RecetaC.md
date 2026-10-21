@@ -17,7 +17,7 @@
 <br>
 5. BIERTA pequeñas porciones de masa.
 <br>
-2. Agregue los GUEBOS y la leche.
+2. Agregue los huevos y la leche.
 <br>
 1. Pele el banano y machaquelo con un tenedor.
 <br>
